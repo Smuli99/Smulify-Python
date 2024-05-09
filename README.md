@@ -1,2 +1,2 @@
 # Smulify-Python
-Sovellusohjelma tietokantaan. Tehty käyttäen Pythonia.
+TJTA3501 Kurssilla toteutetut tietokannat ja sovellusohjelma
